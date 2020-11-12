@@ -1,0 +1,16 @@
+body {
+    margin: 0%;
+}
+.covid-header { 
+    height: 50px;
+    width: 100%;
+    background-color:  #49a4d5;
+}
+.covid-header h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: white;
+}
+.covid-header i {
+    background-color: white;
+}
