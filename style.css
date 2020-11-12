@@ -6,11 +6,12 @@ body {
     width: 100%;
     background-color:  #49a4d5;
 }
-.covid-header h3 {
+.head-container {;
+}
+.covid-header h4 {
     margin-top: 0px;
     margin-bottom: 0px;
-    background-color: white;
 }
 .covid-header i {
-    background-color: white;
+
 }
