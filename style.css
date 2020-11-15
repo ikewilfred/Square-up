@@ -2,10 +2,11 @@ body {
     margin: 0%;
 }
 .covid-header { 
-    height: 40px;
+    height: 48px;
     width: 100%;
     background-color:  #49a4d5;
-    padding-bottom: 17px;
+    align-items: center;
+    display: flex;
 }
 .head-container {
     color: white;
@@ -21,11 +22,43 @@ body {
     padding-right: 5px;
 }
 .site-head {
-    margin: 20px;
-    border: 5px;
+    border-bottom: 1px solid #d4d4d4;
+    display: flex;
+    align-items: center;
 }
 .site-logo {
     display: flex;
     align-items: center;
-    font-size: 30px;
+    font-size: 22px;
+    margin-left: 25px;
+}
+.site-logo p {
+    margin-left: 5px;
+}
+.site-menu ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    margin-left: 278px;
+}
+.site-menu li {
+    margin-right: 18px;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.site-shop {
+}
+.site-shop ul {
+    list-style: none;
+    align-items: center;
+    display: flex;
+    margin-left: 230px;
+}
+.site-shop ul li {
+    font-size: 17px;
+    margin-right: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.site-shop ul li i {
+    font-size: 26px;
 }
