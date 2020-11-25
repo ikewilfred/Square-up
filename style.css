@@ -285,7 +285,7 @@ font-family: 'Source Sans Pro', sans-serif;
     font-size: 12px;
 }
 .set-up-and-solution-area {
-    background-color: #f2f2f2;;
+    background-color: #f2f2f2;
 }
 .set-up-and-solution-main {
     margin: 0 140px;
@@ -299,7 +299,10 @@ font-family: 'Source Sans Pro', sans-serif;
     margin-bottom: 20px;
     font-family: 'Source Sans Pro', sans-serif;
 }
-.contact-sales-main {
+.hardware-sales-image {
+    background-image: url("image/5th-image.webp");
+    width: 100%;
+    height: 700px;
 }
 .contact-sales {
     text-decoration: none;
@@ -314,10 +317,183 @@ font-family: 'Source Sans Pro', sans-serif;
 .contact-sales i {
     font-size: 12px;
 }
-.square-sales-man {
+.square-hardware-main {
+    background-color: #E5EBED;
+    padding-bottom: 30px;
 }
-.square-pos-system {
+.square-hardware-sales {
     display: flex;
     justify-content: center;
     margin: 0 auto;
+}
+.hardware-sales {
+    text-align: center;
+    width: 700px;
+    padding-top: 60px;
+}
+.hardware-sales h2 {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+}
+.hardware-sales span {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.shop-hardware {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.shop-hardware-now {
+    text-decoration: none;
+    color: #49a4d5;
+    margin: 25px 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.shop-hardware-now span {
+    font-size: 17px;
+}
+.shop-hardware-now i {
+    font-size: 12px;
+}
+.shop-hardware-menu {
+    display: flex;
+    align-items: center;
+}
+.magstripe-image {
+    width: 100%;
+    height: 350px;
+}
+.magstripe-main {
+    width: 395px;
+    height: 350px;
+    background-color: #f1f1f1;
+    padding-right: 40px;
+}
+.reader-for-magstripe {
+    text-decoration: none;
+    color: #6dc1cc;
+    text-align: center;
+    display: block;
+    margin-top: -45px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.reader-for-magstripe span {
+    font-size: 17px;
+}
+.reader-for-magstripe i {
+    font-size: 12px;
+}
+.shop-magstripe:hover {
+    cursor: pointer;
+}
+.terminal-main {
+    width: 500px;
+    height: 350px;
+    background-color: white;
+    margin: 0 30px;
+}
+.terminal-image {
+    background-image: url("image/terminal-receipt-menu.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+}
+.terminal {
+    text-decoration: none;
+    color: #49a4d5;
+    text-align: center;
+    display: block;
+    margin-top: -45px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.contactless-main {
+    width: 395px;
+    height: 350px;
+    background-color: #f1f1f1;
+    padding-right: 40px;
+}
+.contactless-image {
+    background-image: url("image/reader-contactless+chip.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+}
+.contactless {
+    text-decoration: none;
+    color: #6dc1cc;
+    text-align: center;
+    display: block;
+    margin-top: -45px;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding-left: 90px;
+}
+.page-indicator-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    margin-top: 24px;
+}
+.page-indicator ul {
+    list-style: none;
+    display: flex;
+    padding-left: 0%;
+}
+.page-indicator ul li {
+    margin-left: 20px;
+    color: #5764744b;
+}
+.kind-of-payment-main {
+    display: flex;
+    justify-content: center;
+    margin: 0 138.5px;
+    padding-top: 30px;
+}
+.kind-of-payment-body {
+    text-align: center;
+}
+.kind-of-payment h2 {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+}
+.kind-of-payment p {
+    font-family: 'Poppins', sans-serif;
+}
+.square-point-of-sale-part1 {
+    margin: 23px 0;
+}
+.square-point-of-sale1 {
+    color: #49a4d5;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.square-point-of-sale1 span {
+    font-size: 17px;
+}
+.square-point-of-sale1 i {
+    font-size: 12px;
+}
+.square-point-of-sale2 {
+    color: #49a4d5;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.square-point-of-sale2 span {
+    font-size: 17px;
+}
+.square-point-of-sale2 i {
+    font-size: 12px;
+}
+.us-reader-iphone-image {
+    background-image: url("image/US-reader-iphone-hand.webp");
+    width: 100%;
+    height: 619px;
 }
