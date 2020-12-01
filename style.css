@@ -458,7 +458,7 @@ font-family: 'Source Sans Pro', sans-serif;
     padding-top: 30px;
 }
 .kind-of-payment-body {
-    text-align: center;
+    text-align: center;margin-bottom: 15px;
 }
 .kind-of-payment h2 {
     font-size: 32px;
@@ -496,4 +496,158 @@ font-family: 'Source Sans Pro', sans-serif;
     background-image: url("image/US-reader-iphone-hand.webp");
     width: 100%;
     height: 619px;
+}
+.get-business-insight-main {
+    text-align: center;
+}
+.get-business-insight-body {
+    width: 870px;
+    margin: 0 auto;
+    padding: 70px 0;
+}
+.get-business-insight h2 {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.get-business-insight p {
+    margin: 28px 0;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.sign-up-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign-up-link input {
+    width: 530px;
+    height: 50px;
+    margin-right: 15px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+.sign-up-link button {
+    width: 135px;
+    height: 52px;
+    border: 1px;
+    border-radius: 6px;
+    background-color: #49a4d5;
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.phone-dashboard-image {
+    background-image: url("image/phone-dashboard.webp");
+    width: 100%;
+    height: 700px;
+}
+.resources-to-support-your-business-main {
+    text-align: center;
+    margin: 0 138px;
+    padding-top: 80px
+}
+.resources-to-support-your-business-body {
+    width: 700px;
+    margin: 0 auto;
+}
+.resources-to-support-your-business-body h2 {
+    margin-bottom: 20px;
+    margin-top: 0;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+}
+.resources-to-support-your-business-body p {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+}
+.resources-to-support-main {
+    display: flex;
+    margin-top: 55px;
+}
+.resources-to-support-body1 {
+    width: 495px;
+    text-align: center;
+    background-color: white;
+    margin-right: 30px;
+}
+.resources-to-support-image1 {
+    background-image: url("image/homepage-map.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 277px;
+}
+.resources-to-support-body1-m {
+    padding: 30px;
+}
+.resources-to-support1 h3 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+.resources-to-support1 p {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 25px;
+}
+.resources-to-support-link {
+    color: #49a4d5;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.resources-to-support-link span {
+    font-size: 17px;
+}
+.resources-to-support-link i {
+    font-size: 12px;
+}
+.resources-to-support-body2 {
+    width: 495px;
+    text-align: center;
+    background-color: white;
+}
+.resources-to-support-image2 {
+    background-image: url("image/giftcards-directory.webp");
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 277px;
+}
+.resources-to-support-body2-m {
+    padding: 30px;
+}
+.resources-to-support2 h3 {
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+}
+.resources-to-support2 p {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 25px;
+}
+.visit-our-full-resource-hub {
+    margin-top: 50px;
+    margin-bottom: 65px;
+}
+.visit-our-full-resource {
+    color: #49a4d5;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.visit-our-full-resource span {
+    font-size: 17px;
+}
+.visit-our-full-resource i {
+    font-size: 12px;
+}
+.toolkit-menu-main {
+    background-color: #ffffff;
+    text-align: center;
+}
+.toolkit-menu-head {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
 }
