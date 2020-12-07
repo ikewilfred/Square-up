@@ -319,7 +319,7 @@ font-family: 'Source Sans Pro', sans-serif;
 }
 .square-hardware-main {
     background-color: #E5EBED;
-    padding-bottom: 30px;
+    padding-bottom: 80px;
 }
 .square-hardware-sales {
     display: flex;
@@ -644,10 +644,271 @@ font-family: 'Source Sans Pro', sans-serif;
     font-size: 12px;
 }
 .toolkit-menu-main {
-    background-color: #ffffff;
+    background-color: hsl(0, 0%, 100%);
     text-align: center;
+    padding-top: 50px;
 }
 .toolkit-menu-head {
+    font-size: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+.toolkit-menu-body {
+    display: flex;
+}
+.toolkit-menu-body-main {
+    display: flex;
+    margin-top: 30px;
+}
+.toolkit-menu-body1 {
+    width: 410.px;
+    height: 330px;
+    border: 1px;
+    padding-top: 30px;
+    opacity: 0.5;
+    border-color: #d9d9d9;
+    border-style: solid;
+    background-color: white;
+    text-decoration: none;
+    margin-left: -20px;
+    padding-right: 13px;
+}
+.toolkit-menu-body1 svg g path {
+    fill: #49a4d5;
+}
+.toolkit-menu-body1 h3 {
     font-size: 20px;
     font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.toolkit-menu-body1 p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.toolkit-menu-body1-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #49a4d5;
+    font-family: 'Roboto', sans-serif;
+}
+.toolkit-menu-body1-link i {
+    font-size: 15px;
+    margin-left: 5px;
+}
+.toolkit-menu-body2 {
+    width: 440px;
+    height: 330px;
+    padding-top: 30px;
+    border: 1px;
+    border-color: #d9d9d9;
+    border-style: solid;
+    background-color: white;
+    text-decoration: none;
+    margin: 0 25px;
+}
+.toolkit-menu-body2 svg path {
+    fill: #49a4d5;
+}
+.toolkit-menu-body2 h3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.toolkit-menu-body2 p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.toolkit-menu-body2-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #49a4d5;
+    font-family: 'Roboto', sans-serif;
+}
+.toolkit-menu-body2-link i {
+    font-size: 15px;
+    margin-left: 5px;
+}
+.toolkit-menu-body3 {
+    width: 410.px;
+    height: 330px;
+    border: 1px;
+    padding-top: 30px;
+    opacity: 0.5;
+    border-color: #d9d9d9;
+    border-style: solid;
+    background-color: white;
+    text-decoration: none;
+    margin-right: -20px;
+    padding-left: 12px;
+}
+.toolkit-menu-body3 svg path {
+    stroke: #49a4d5;
+}
+.toolkit-menu-body3 h3 {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.toolkit-menu-body3 p {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+}
+.toolkit-menu-body3-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #49a4d5;
+    font-family: 'Roboto', sans-serif;
+}
+.toolkit-menu-body3-link i {
+    font-size: 15px;
+    margin-left: 5px;
+}
+.toolkit-menu-page-indicator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+    margin-top: 24px;
+    margin-bottom: 80px;
+}
+.toolkit-menu-page-indicator ul {
+    list-style: none;
+    display: flex;
+    padding-left: 0%;
+}
+.toolkit-menu-page-indicator ul li {
+    margin-left: 20px;
+    color: #5764744b;
+}
+.retail-plant-image {
+    background-image: url("image/retail-plant.webp");
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+.start-selling-with-square-main {
+    text-align: center;
+}
+.start-selling-with-square-body {
+    width: 870px;
+    margin: 0 auto;
+    padding: 70px 0;
+}
+.start-selling-with-square h2 {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.start-selling-with-square p {
+    margin: 28px 0;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+}
+.start-selling-with-square-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.start-selling-with-square-link button {
+    width: 130px;
+    height: 50px;
+    border: 1px;
+    border-radius: 6px;
+    background-color: #49a4d5;
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.get-real-support-from-real-people-main {
+    text-align: center;
+}
+.get-real-support-from-real-people-head {
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 90px;
+    margin-bottom: 60px;
+}
+.get-real-support-from-real-people-body {
+    display: flex;
+}
+.get-real-support-from-real-people {
+    display: flex;
+    margin: 0 auto;
+}
+.get-real-support-from-real-people-body1 {
+    text-decoration: none;
+    width: 510px;
+    height: 180px;
+    background-color: white;
+    padding-top: 30px;
+    margin-right: 15px;
+}
+.get-real-support-from-real-people-body1 h3 {
+    color: black;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.get-real-support-from-real-people-body1 p {
+    color: black;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.get-real-support-from-real-people-link1 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #49a4d5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.get-real-support-from-real-people-link1 i {
+    font-size: 13px;
+    margin-left: 3px;
+    margin-bottom: -5px;
+}
+.get-real-support-from-real-people-body2 {
+    background-color: white;
+    text-decoration: none;
+    width: 510px;
+    height: 180px;
+    padding-top: 30px;
+    margin-left: 15px;
+}
+.get-real-support-from-real-people-body2 h3 {
+    color: black;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+.get-real-support-from-real-people-body2 p {
+    color: black;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+.get-real-support-from-real-people-link2 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: #49a4d5;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.get-real-support-from-real-people-link2 i {
+    font-size: 13px;
+    margin-left: 3px;
+    margin-bottom: -5px;
+}
+.square-capital-main {
+    background-color: #E5EBED;
+    border-top-style: solid;
+    border-width: thin;
+    border-top-color: #d3d8da;
+    margin-top: -1px;
+}
+.square-capital-body {
+    margin: 0 139px;
+    font-size: 13px;
+    padding-top: 70px;
+    padding-bottom: 60px;
 }
